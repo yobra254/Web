@@ -1,0 +1,31 @@
+/*file created by ME in the css folder in bootstrap called custom.css*/
+.jumbotron h1{color: #ff0000;font-size: 80px;}
+.jumbotron{background-image: url("../../clothes/outfits-1.jpg");}
+.jumbotron p{color: #000;font-size: 25px;}
+#Abo h3{color: #0000ff;font-size: 30px;}
+#Abo p{color: #000;font-size: 20px;}
+#pro p{color: #000;}
+#pro h3{color: #0000ff;}
+#men p{color: #0000cc;font-size: 18px;font-family: Copperplate Gothic Bold;}
+#Women p{color: #0000cc;font-size: 18px;font-family: Copperplate Gothic Bold;}
+.footer{
+	    background-color: #3385ff;
+	    opacity: 0.7;
+	    padding-top: 12px;
+	    margin-top: 15px;}
+.footer .list-group,.footer .list-group-item{
+	background: none;
+    border: none;
+    color: #ffff00;
+    font-size: 20px;
+    font-family: arial black;}
+ .content{margin-top: 120px;}
+.navbar-inverse{background: none;
+                border: none;
+                background:#00ced1;}
+.navbar-inverse{color:#d2691e;
+                font-family: stencil;
+                font-size: 25px;}
+.navbar-brand{font-size: 30px;}
+ul.social li{display: inline;}
+ul.social li img{height: 50px;}
